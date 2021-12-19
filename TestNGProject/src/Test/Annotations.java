@@ -24,6 +24,7 @@ public class Annotations {
 	  @BeforeClass
 	  public void beforeClass() {
 		  System.out.println("Before Class");
+		  System.out.println("Test");
 	  }
 	  
 	  @BeforeMethod
